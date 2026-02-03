@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student @MIT-ADT'29<br>B.Tech CSE
+Student @MIT-ADT'29<br>B.Tech CSE (ADT25SOCB0342)<br>SOC 15
 
 
 ## 🌐 Socials:
